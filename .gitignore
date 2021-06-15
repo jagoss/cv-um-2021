@@ -2,3 +2,5 @@ cvum/cvum.egg-info/
 cvum/cvum/__pycac
 cvum/um_cv.egg-info/
 trabajo-final/data/
+trabajo-final/.ipynb_checkpoints/
+trabajo-final/__pycache__/
